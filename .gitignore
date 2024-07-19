@@ -1,6 +1,13 @@
 # Dependency directories
-**/node_modules/
+**/node_modules
 
 # Environment variables file
 **/.env
 
+**/package.json
+
+**/package-lock.json
+
+**/vite.config.js
+
+.eslintrc.cjs
